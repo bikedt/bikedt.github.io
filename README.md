@@ -1,2 +1,2 @@
-# bikedt.github.io
-index, publish 1
+# example
+bootstrap kms
