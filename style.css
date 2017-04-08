@@ -1,0 +1,21 @@
+# Empty CSS file for your own CSS
+
+body {
+	margin: 0;
+}
+
+#over img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+p {
+	font-size:medium;
+}
+ul {
+	font-size:large;
+	
+}
+!.dropdown-backdrop{
+z-index:0;
+}
